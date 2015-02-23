@@ -1,0 +1,6 @@
+#hour, #min, #sec { 
+  stroke-width: 1px;
+  fill: #333;
+  stroke: #555;
+}
+#sec { stroke: #f55; }
